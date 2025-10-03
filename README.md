@@ -1,23 +1,104 @@
- 💫 About Me:
- <br>👋 Hey there, I’m Swetam Kumar<br><br>🎓 I’m a **third-year Computer Science Engineering student** who loves building practical and impactful projects. Currently, I’m focusing on developing full-stack applications that bring real-world ideas to life. My goal is to keep growing as a developer while collaborating with people who share the same passion for tech.<br><br><br><br>🚀 What I’m Currently Working On<br><br> A **Car & Bike Rental System** – a full-stack project designed to manage vehicle listings, reservations, and user profiles seamlessly.<br>Exploring and building other hands-on projects to strengthen my development skills and broaden my portfolio.<br> Improving my knowledge of **backend systems, database design, and full-stack integration**.<br><br><br><br>🤝 Who I’m Looking to Collaborate With<br><br>I’d love to work with:<br><br> * Developers who enjoy building **end-to-end systems**.<br> * Enthusiasts working on **open-source projects**.<br> * Teams or individuals interested in **web apps, backend development, and scalable systems**. <br><br><br><br> 🛠️ How I Can Help<br><br> * Backend development with **Django / Python**.<br> * Setting up databases and APIs. <br> * Breaking down complex problems into simple, structured solutions.  <br> * Sharing coding resources, project ideas, and logical approaches to problem-solving.<br><br><br><br>📚 What I’m Currently Learning<br><br> * **Django + React full-stack development** for dynamic and modern web apps.<br>* **Data Structures & Algorithms (DSA)** to sharpen problem-solving for competitive programming and placements.<br>* Exploring **DevOps concepts** like CI/CD, Docker, and deployment strategies.<br> * Diving into **database optimization** and system design basics.<br><br><br><br> 💬 Ask Me About<br><br> * Web development (frontend + backend basics).<br> * Python, Django, and database integration.<br> * How to start a project from scratch as a student.<br> * Learning paths for DSA and development.<br> * Career roadmaps for students aiming at strong placements.<br><br><br><br> ⚡ Fun Fact<br><br>I run on **tea and curiosity** — one keeps me awake, the other keeps me coding. 🍵💡<br><br><br><br>✨ Thanks for stopping by my profile! Let’s connect, collaborate, and build something amazing. 🚀<br><br><br>
+# 👨‍💻 Swetam Kumar
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00C2FF&center=true&vCenter=true&lines=Aspiring+Full-Stack+Developer;Computer+Science+Engineer;Backend+%26+Database+Enthusiast;Open-Source+Contributor;Lifelong+Learner" alt="Typing SVG" />
+</p>  
 
- 🌐 Socials:
+## 💫 About Me <img src="https://raw.githubusercontent.com/nixin72/nova-icons/main/icons/animated/wave.gif" width="30px">
+<p align="left">
+👋 Hey there! I’m <b>Swetam Kumar</b>, a <b>third-year Computer Science Engineering student</b> passionate about building practical and impactful projects.  
+I love turning ideas into full-stack applications and continuously sharpening my backend & system design skills.  
+</p>  
+
+<p align="left">✨ My mission: Learn, collaborate, and build meaningful solutions that matter. ✨</p>  
+
+## 🚀 What I’m Currently Working On <img src="https://raw.githubusercontent.com/nixin72/nova-icons/main/icons/animated/rocket.gif" width="30px">
+
+<p align="left">
+  🔹 Developing a <b>Car & Bike Rental System</b> – a full-stack project for vehicle listings, reservations, and profiles. <br>
+  🔹 Exploring projects to strengthen my <b>full-stack development skills</b>. <br>
+  🔹 Deep diving into <b>backend systems, database design, and full-stack integration</b>.  
+</p>  
+
+## 🤝 Collaboration Interests
+
+<p align="left">
+🌟 Developers passionate about <b>end-to-end system development</b>. <br>
+🌟 Open-source enthusiasts. <br>
+🌟 Teams or individuals working on <b>web apps, backend dev, and scalable systems</b>.  
+</p>  
+
+## 🛠️ How I Can Help
+
+<p align="left">
+💡 Backend development with <b>Django / Python</b> <br>
+💡 Setting up <b>databases & APIs</b> <br>
+💡 Simplifying complex problems into structured solutions <br>
+💡 Sharing <b>resources, project ideas, and logical approaches</b>  
+</p>  
+
+## 📚 Currently Exploring
+
+<p align="left">
+📖 <b>Django + React full-stack development</b> for modern web apps <br>
+📖 <b>Data Structures & Algorithms (DSA)</b> for problem-solving & placements <br>
+📖 <b>DevOps basics</b>: CI/CD, Docker, deployment strategies <br>
+📖 <b>Database optimization & system design</b> fundamentals  
+</p>  
+
+## 💬 Ask Me About
+
+<p align="left">
+💬 Web development (frontend + backend basics) <br>
+💬 Python, Django, and database integration <br>
+💬 Starting a project from scratch as a student <br>
+💬 Learning paths for <b>DSA & development</b> <br>
+💬 Career roadmaps for strong placements  
+</p>  
+
+## ⚡ Fun Fact <img src="https://raw.githubusercontent.com/nixin72/nova-icons/main/icons/animated/lightbulb.gif" width="25px">
+
+<p align="center">  
+☕ I run on <b>tea & curiosity</b> — one keeps me awake, the other keeps me coding 💡  
+</p>  
+
+## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/SWETAM KUMAR) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kumarswetam389@gmail.com) 
 
-💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-<br>
-📊 GitHub Stats:
-<br>
-![](https://github-readme-stats.vercel.app/api?username=SwetamKumar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SwetamKumar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SwetamKumar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 💻 Tech Stack
 
- 🔝 Top Contributed Repo
- <br>
-![](https://github-contributor-stats.vercel.app/api?username=SwetamKumar&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50" alt="C"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50" alt="Bootstrap"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" height="50" alt="Django"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50" alt="Express.js"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50" height="50" alt="SQLite"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub"/>  
+</p>  
 
+## 📊 GitHub Stats
 
-[![](https://visitcount.itsvg.in/api?id=SwetamKumar&icon=4&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SwetamKumar&theme=dark&hide_border=false&count_private=false" height="180"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=SwetamKumar&theme=dark&hide_border=false" height="180"/>
+</p>  
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwetamKumar&theme=dark&hide_border=false&layout=compact" height="180"/>
+</p>  
+
+## 🔝 Top Contributed Repos
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=SwetamKumar&limit=5&theme=dark&combine_all_yearly_contributions=true" height="200"/>
+</p>  
+
+ <p align="left"><i>✨ Thanks for visiting! Let’s connect, collaborate, and build something amazing together 🚀</i></p>
